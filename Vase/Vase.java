@@ -1,3 +1,8 @@
+// Manfred Le
+// COP4520: Concepts of Parrallel and Distributed Processing
+// Outputs the time it took for everyone to visit the Vase
+// Optional flag that changes the number of people
+
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.concurrent.ExecutorService;
